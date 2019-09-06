@@ -41,7 +41,7 @@ if __name__ == '__main__':
    #time.sleep(2)
    #print(my_time.speed)
 
-
+#---------------------------------------------------------#
 #t = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time()))
 #print(t)
 # 暂停一秒
