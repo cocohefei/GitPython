@@ -35,6 +35,11 @@ if __name__ == '__main__':
    time.sleep(2)
    my_time.timeT()
 
+   for i in range(1,5):
+       print(i)
+   else:
+       print("OK")
+
    #print(my_time.time_strf)
    #time.sleep(2)
    #print(my_time.time_datatime)
@@ -53,6 +58,6 @@ if __name__ == '__main__':
 #t3 = time.time()
 #print(t3)
 
-#time.sleep(1)
-#TIME = datetime.datetime.now()
-#print(TIME.strftime("%Y.%m.%d %H:%M:%S"))
+# time.sleep(1)
+# TIME = datetime.datetime.now()
+# print(TIME.strftime("%Y.%m.%d %H:%M:%S"))
