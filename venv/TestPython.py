@@ -39,7 +39,7 @@ if __name__ == '__main__':
        print(i)
    else:
        print("OK")
-
+#========================================================#
    #print(my_time.time_strf)
    #time.sleep(2)
    #print(my_time.time_datatime)
