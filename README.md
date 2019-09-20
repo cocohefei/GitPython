@@ -1,2 +1,1 @@
-# MyPythonProject
 TestPython
